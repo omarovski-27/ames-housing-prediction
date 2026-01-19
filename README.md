@@ -100,7 +100,7 @@ Not every best practice works for every dataset. The model was already handling 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ames-housing-prediction.git
+   git clone https://github.com/omarovski-27/ames-housing-prediction.git
    ```
 2. Download data from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 3. Run the Jupyter notebook:
