@@ -2,7 +2,7 @@
 
 ### 🏆 Kaggle Competition Project
 
-**Score:** 0.130 RMSLE (Top 35% — 1636 / 4769)
+**Score:** 0.130 RMSLE (Top 34% — 1626 / 4722)
 
 **Tech Stack:** Python, Scikit-Learn, Pandas, Gradient Boosting
 
