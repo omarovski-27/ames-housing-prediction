@@ -91,10 +91,9 @@ Not every best practice works for every dataset. The model was already handling 
 
 ## 🔮 Future Improvements
 
-* Use cross-validation instead of a single train/test split
 * Try XGBoost or LightGBM for potentially better performance
 * Build a sklearn Pipeline to enforce consistent preprocessing
-* Tune hyperparameters with GridSearchCV
+* Try stacking/blending multiple models
 
 ## 💻 How to Run
 
