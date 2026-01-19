@@ -60,10 +60,7 @@ My score progression on Kaggle:
 | #2 | 11.95 | Broke preprocessing (lesson learned!) |
 | #3 | **0.130** | Fixed encoding + removed Id from features |
 
-**Key Debugging Insights:**
-- Accidentally included `Id` as a feature — the model tried to learn patterns from row numbers
-- Forgot to one-hot encode test data — model received zeros for all categorical features
-- Missing `.fillna(0)` after `.map()` caused silent NaN propagation
+
 
 ## 🚫 What Didn't Work
 
