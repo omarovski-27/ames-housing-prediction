@@ -43,10 +43,10 @@ Compared multiple models on the same train/test split:
 
 | Model | RMSE |
 |-------|------|
-| Linear Regression | $43,038 |
-| Ridge (α=100) | $30,225 |
-| Random Forest | $26,618 |
-| **Gradient Boosting** | **$24,030** |
+| Linear Regression | $43,031 |
+| Ridge (α=100) | $30,219 |
+| Random Forest | $26,423 |
+| **Gradient Boosting** | **$23,790** |
 
 **Final Model:** Gradient Boosting Regressor with default hyperparameters
 
